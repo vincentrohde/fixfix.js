@@ -1,4 +1,4 @@
-# fixfix
+# fixfix.js
 Small work assistant for daily-tasks. Removes prefixes/ suffixes. 
 ### Use with caution!
 
